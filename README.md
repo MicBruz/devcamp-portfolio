@@ -1,24 +1,5 @@
-# README
+# DevCamp Portfolio app.
+This is my version of the _course app_ which I created basing on the DevCamp course on Udemy.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**Course name:** Dissecting Ruby on Rails 5 - Become a Professional Developer\
+**Link:** https://www.udemy.com/course/professional-rails-5-development-course
